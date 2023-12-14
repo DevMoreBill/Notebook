@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Notebook", "Notebook\Notebook.csproj", "{651EBD56-9388-42A0-9B48-0FD8EEBF62BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Realese MY|Any CPU = Realese MY|Any CPU
+		Realese MY|x64 = Realese MY|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{651EBD56-9388-42A0-9B48-0FD8EEBF62BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{651EBD56-9388-42A0-9B48-0FD8EEBF62BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{651EBD56-9388-42A0-9B48-0FD8EEBF62BF}.Debug|x64.ActiveCfg = Debug|x64
+		{651EBD56-9388-42A0-9B48-0FD8EEBF62BF}.Debug|x64.Build.0 = Debug|x64
+		{651EBD56-9388-42A0-9B48-0FD8EEBF62BF}.Realese MY|Any CPU.ActiveCfg = Realese MY|Any CPU
+		{651EBD56-9388-42A0-9B48-0FD8EEBF62BF}.Realese MY|Any CPU.Build.0 = Realese MY|Any CPU
+		{651EBD56-9388-42A0-9B48-0FD8EEBF62BF}.Realese MY|x64.ActiveCfg = Realese MY|x64
+		{651EBD56-9388-42A0-9B48-0FD8EEBF62BF}.Realese MY|x64.Build.0 = Realese MY|x64
+		{651EBD56-9388-42A0-9B48-0FD8EEBF62BF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{651EBD56-9388-42A0-9B48-0FD8EEBF62BF}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{651EBD56-9388-42A0-9B48-0FD8EEBF62BF}.Release|x64.ActiveCfg = Release|x64
+		{651EBD56-9388-42A0-9B48-0FD8EEBF62BF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F900903-1C57-46E3-9542-2F09F406FF35}
+	EndGlobalSection
+EndGlobal
